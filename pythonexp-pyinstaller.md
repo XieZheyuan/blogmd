@@ -1,6 +1,6 @@
 ---
 title: Python经验帖——pyinstaller
-tags: Python pyinstaller
+tags: [计算机, python,pyinstaller]
 ---
 
 # PyInstaller介绍
@@ -28,7 +28,7 @@ pip3 install pyinstaller //Mac
 ```python
 print("Hello World")
 ```
-
+**strong text**
 ## 尝试编译
 ```powershell
 python -m PyInstaller 1.py
