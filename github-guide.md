@@ -1,7 +1,9 @@
----
 title: 超完整Github开发指南
-tags: [计算机, Github]
-date: 2020/04/03
+tags:
+  - 计算机
+  - Github
+description: Github开发指南
+date: 2020-04-03 00:00:00
 ---
 # 0、目录
 <a href="#first">1、注册GitHub 账户</a>
@@ -11,13 +13,13 @@ date: 2020/04/03
 # 1、注册GitHub 账户
 访问[Github](http://www.github.com/),若无意外，则效果为以下所示（Firefox)
 
-![Github首页](https://img-blog.csdnimg.cn/20200403120222637.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3B5dGhvbmJpbGx5,size_16,color_FFFFFF,t_70#pic_center)
+![Github首页](/blogimages/github-mainpage.png)
 
 输入**用户名**、**邮箱（确保可用）**、**密码**，点击Sign up for Github，再填写几个个人信息，就Well Done了！
 
 注册完后点击Sign in,填写用户名及密码即可。
 
-![Github 登录页](https://img-blog.csdnimg.cn/2020040312024954.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3B5dGhvbmJpbGx5,size_16,color_FFFFFF,t_70#pic_center)
+![Github 登录页](/blogimages/github-login.png)
 
 
 
@@ -27,12 +29,12 @@ date: 2020/04/03
 
 然后就可以看到个人界面了！
 
-![Github 个人主页](https://img-blog.csdnimg.cn/20200403120319156.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3B5dGhvbmJpbGx5,size_16,color_FFFFFF,t_70#pic_center)
+![Github 个人主页](/blogimages/github-logined.png)
 <a name="second"></a>
 # 2、创建第一个仓库
 点击Repositories右侧的New，即可跳转至仓库创造页！
 
-​![仓库创造页](https://img-blog.csdnimg.cn/20200403120345798.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3B5dGhvbmJpbGx5,size_16,color_FFFFFF,t_70#pic_center)
+​![仓库创造页](/blogimages/github-new.png)
 
 
 
@@ -49,7 +51,7 @@ date: 2020/04/03
 
 3、克隆仓库
 
-![Github Desktop](https://img-blog.csdnimg.cn/20200403120401585.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3B5dGhvbmJpbGx5,size_16,color_FFFFFF,t_70#pic_center)
+![Github Desktop](/blogimages/github-desktop.png)
 
 编写，点击**COMMIT TO MASTER**和**PUSH ORIGN**即可！
 <a name="fourth"></a>
@@ -61,7 +63,7 @@ A：
 1、使用Github主题：
 访问**Settings->GitHub Pages->Theme Chooser->Change Theme** 选择样式，不过好像只适合写主页，并且必须使用**Markdown**格式。
 2、使用模板网站，这里推荐[HTML5 UP](https://html5up.net/)
-![HTML5UP](https://img-blog.csdnimg.cn/20200403121614316.PNG?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3B5dGhvbmJpbGx5,size_16,color_FFFFFF,t_70#pic_center)
+![HTML5UP](/blogimages/htmlup.png)
 看到自己心仪的主题，可以选择**Free Download**，或者点击**Live Demo**查看预览。
 注：大家可以看看我的网站：[xiezheyuan.github.io](http://xiezheyuan.github.io/)
 

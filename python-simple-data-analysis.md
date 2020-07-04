@@ -1,6 +1,11 @@
----
 title: python简易数据分析
-tags: [计算机, 数学, python, 数据分析]
+tags:
+  - 计算机
+  - 数学
+  - python
+  - 数据分析
+description: 简易数据分析
+date: 2020-07-04 18:47:50
 ---
 
 #  python简易数据分析

@@ -1,6 +1,7 @@
 ---
 title: python 制作CPU压力测试——圆周率计算
 tags: [计算机, 数学,python,圆周率]
+description: 制作CPU压力测试
 date: 2020/04/01
 ---
 

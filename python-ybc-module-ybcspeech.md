@@ -2,6 +2,7 @@
 title: python 猿编程模块（一）ybc_speech
 tags: [计算机, python, 猿编程]
 date: 2019/10/06
+description: 猿编程模块 ybc_speech
 ---
 
 首先先安装模块

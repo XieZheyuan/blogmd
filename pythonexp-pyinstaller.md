@@ -1,11 +1,12 @@
 ---
 title: Python经验帖——pyinstaller
 tags: [计算机, python,pyinstaller]
+description: PyInstaller是一个简单的python编译程序
 ---
 
 # PyInstaller介绍
 
-PyInstaller是一个简单的python编译程序，可以把** py ** 源文件编译成 ** exe ** 可执行文件（据说还可以变成.app等，但没有亲测过）
+PyInstaller是一个简单的python编译程序，可以把**py** 源文件编译成 **exe** 可执行文件（据说还可以变成.app等，但没有亲测过）
 
 # PyInstaller安装
 
